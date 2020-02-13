@@ -7,6 +7,6 @@
 
 发起单位：武汉大学国家多媒体软件工程技术研究中心
 
-熊张洋 x_zhangyang@whu.edu.cn
+联系人：熊张洋   联系方式：x_zhangyang@whu.edu.cn
 
 
