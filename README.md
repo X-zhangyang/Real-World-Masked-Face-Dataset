@@ -11,7 +11,7 @@
 
 数据样例如下：
 
-![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/0.jpg)
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/0.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/1.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/2.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/3.jpg)
