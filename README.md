@@ -9,6 +9,9 @@
 
 联系人：熊张洋   联系方式：x_zhangyang@whu.edu.cn
 
+为了进一步扩充该数据集，希望大家可以将个人收集到的戴口罩的图片，通过邮件的方式发送到 x_zhangyang@whu.edu.cn，我们会对收到的图片统一处理。
+感谢
+
 数据样例如下：
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/Wang.jpg)
