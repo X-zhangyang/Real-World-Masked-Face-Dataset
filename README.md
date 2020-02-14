@@ -10,7 +10,7 @@
 联系人：熊张洋   联系方式：x_zhangyang@whu.edu.cn
 
 数据样例如下：
-
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/0.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/1.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/2.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/3.jpg)
