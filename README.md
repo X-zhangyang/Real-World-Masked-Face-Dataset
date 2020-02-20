@@ -1,6 +1,6 @@
 # Real-World-Masked-Face-Dataset
 
-口罩遮挡人脸数据集（Real-World Masked Face Dataset，RMFD）
+口罩遮挡人脸数据集（Real-World Masked Face Dataset，RWMFD）
 
 近期武汉新型冠状肺炎疫情肆虐，全国人民戴口罩，具有海量样本基数，为此，建立全球最大蒙面人脸数据集，为今后可能的类似公共安全事件智能管控积累数据资源。
 基于蒙面人脸数据，设计相应口罩遮挡人脸检测和识别算法，帮助社区封闭时的人员进出管控，车站、机场的人脸识别闸机以及人脸考勤机的升级，适应行人口罩蒙面遮挡的应用环境。
