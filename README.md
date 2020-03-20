@@ -6,24 +6,29 @@
 
 为了进一步扩充数据集，欢迎大家将个人收集到的戴口罩图片，通过邮件的方式发送到 x_zhangyang@whu.edu.cn，我们会对收到的图片统一处理。
 
-# 数据集下载
+## 数据集下载
 
 部分原始样本已上传本github站点，RWMFD_part_1可直接下载使用，RWMFD_part_2 (4个压缩文件) 和RWMFD_part_3 (3个压缩文件) 需要下载全部压缩文件后，再进行解压。
 
 已标注数据集说明如下：（区别于github中raw samples） 不同于人脸口罩识别（或检测）数据集，口罩人脸识别样本集须得包含同一人的多张戴口罩与未戴口罩的人脸图像，为此，我们建立了两种口罩人脸识别样本集。
+
 （1）	真实口罩人脸识别数据集：从网络爬取样本，经过整理、清洗和标注后，含525人的5千张口罩人脸、9万正常人脸。 
+
 下载地址： https://pan.baidu.com/s/1XvGepj84SCA9rlVb9rGhEQ 
 密码：j3aq
+
 （2）	模拟口罩人脸识别数据集： 给公开数据集中的人脸戴上口罩，得到1万人、50万张人脸的模拟口罩人脸数据集。 
+
 Webface模拟口罩人脸数据集： 
+
 https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA 
 密码: 77m8 
 LFW模拟口罩人脸数据集: 
+
 https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg 
 密码: o126
 
 ## 相关工作
-arXiv paper【信息待会给你，用link模式，即点击paper名称可以打开访问】
 
 
 ## 原始样本示例：
@@ -53,6 +58,7 @@ Part of the original samples has been uploaded to this github website. RWFMD_par
 
 More labeled face samples are illustrated as follows: (different from raw samples in github) Different from the facial mask recognition (or detection) dataset, the masked face recognition dataset must include multiple masked and unmasked face images of the same subject. To this end, we have established two kinds of masked face recognition datasets.
 (1)	Real-world masked face recognition dataset: We crawled the samples from the website. After cleaning and labeling, it contains 5,000 masked faces of 525 people and 90,000 normal faces.
+
 Download link: https://pan.baidu.com/s/1XvGepj84SCA9rlVb9rGhEQ
 Password: j3aq
 
