@@ -16,6 +16,7 @@
 更多已经标注的数据集说明如下：（区别于github中raw samples）
 不同于人脸口罩识别（或检测）数据集，口罩人脸识别样本集须得包含同一人的多张戴口罩与未戴口罩的人脸图像，为此，我们建立了两种口罩人脸识别样本集。
 
+## 数据获取
 （1）真实口罩人脸识别数据集
 从网络爬取样本，经过整理、清洗和标注后，含525人的5千张口罩人脸、9万正常人脸。
 下载地址：
@@ -31,9 +32,9 @@ LFW模拟口罩人脸数据集:
 https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 密码: o126
 # 
-# 相关工作
+## 相关工作
 
-# 原始样本示例：
+## 原始样本示例：
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0003.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0001.jpg)
@@ -54,7 +55,7 @@ Contact: Zhangyang Xiong, Email: x_zhangyang@whu.edu.cn
 
 In order to further expand this dataset, everyone is welcome to send personally collected pictures of masks to x_zhangyang@whu.edu.cn by email, and we will process the received pictures uniformly.
 
-# Download Datasets
+## Download Datasets
 
 Part of the original samples has been uploaded to this github website. RWFMD_part_1 can be downloaded directly. RWFMD_part_2 (4 compressed files) and RWFMD_part_3 (3 compressed files) need to download all compressed files before decompressing them.
 
@@ -73,9 +74,9 @@ LFW simulated masked face dataset:
 https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 Password: o126
 
-# Related Work
+## Related Work
  
-# Examples of Raw Samples
+## Examples of Raw Samples
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0003.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0001.jpg)
