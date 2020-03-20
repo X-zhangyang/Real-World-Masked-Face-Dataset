@@ -31,7 +31,7 @@ https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA
 LFW模拟口罩人脸数据集: 
 https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 密码: o126
-# 
+
 ## 相关工作
 
 ## 原始样本示例：
@@ -45,7 +45,7 @@ https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/3.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/4.jpg)
 
-
+#
 # Real-World Masked Face Dataset（RMFD）
 
 Because of the recent epidemic of COVID-19 virus around the world, people across the country wear masks and there appear a large number of masked face samples. We thus created the world's largest masked face dataset to accumulate data resources for possible intelligent management and control of similar public safety events in the future. Based on masked face dataset, corresponding masked face detection and recognition algorithms are designed to help people in and out of the community when the community is closed. In addition, the upgrade of face recognition gates, facial attendance machines, and facial security checks at train stations is adapted to the application environment of pedestrian wearing masks.
