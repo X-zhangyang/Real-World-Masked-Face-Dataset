@@ -31,8 +31,9 @@ LFW模拟口罩人脸数据集:
 https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 密码: o126
 
-相关工作
-原始样本示例：
+# 相关工作
+
+#原始样本示例：
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0003.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0001.jpg)
@@ -44,7 +45,7 @@ https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/example/4.jpg)
 
 
-Real-World Masked Face Dataset（RMFD）
+# Real-World Masked Face Dataset（RMFD）
 
 Because of the recent epidemic of COVID-19 virus around the world, people across the country wear masks and there appear a large number of masked face samples. We thus created the world's largest masked face dataset to accumulate data resources for possible intelligent management and control of similar public safety events in the future. Based on masked face dataset, corresponding masked face detection and recognition algorithms are designed to help people in and out of the community when the community is closed. In addition, the upgrade of face recognition gates, facial attendance machines, and facial security checks at train stations is adapted to the application environment of pedestrian wearing masks.
 
@@ -53,7 +54,7 @@ Contact: Zhangyang Xiong, Email: x_zhangyang@whu.edu.cn
 
 In order to further expand this dataset, everyone is welcome to send personally collected pictures of masks to x_zhangyang@whu.edu.cn by email, and we will process the received pictures uniformly.
 
-Download Datasets
+# Download Datasets
 
 Part of the original samples has been uploaded to this github website. RWFMD_part_1 can be downloaded directly. RWFMD_part_2 (4 compressed files) and RWFMD_part_3 (3 compressed files) need to download all compressed files before decompressing them.
 
@@ -72,9 +73,9 @@ LFW simulated masked face dataset:
 https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 Password: o126
 
-Related Work
-
-Examples of Raw Samples
+# Related Work
+ 
+# Examples of Raw Samples
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0003.jpg)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0001.jpg)
