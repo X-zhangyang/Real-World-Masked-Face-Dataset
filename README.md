@@ -57,10 +57,11 @@ In order to further expand this dataset, everyone is welcome to send personally 
 
 Part of the original samples has been uploaded to this github website. RWFMD_part_1 can be downloaded directly. RWFMD_part_2 (4 compressed files) and RWFMD_part_3 (3 compressed files) need to download all compressed files before decompressing them.
 
-More labeled face samples are illustrated as follows: (different from raw samples in github) Different from the facial mask recognition (or detection) dataset, the masked face recognition dataset must include multiple masked and unmasked face images of the same subject. To this end, we have established two kinds of masked face recognition datasets.
-(1)	Real-world masked face recognition dataset: We crawled the samples from the website. After cleaning and labeling, it contains 5,000 masked faces of 525 people and 90,000 normal faces.
+More labeled face samples are illustrated as follows: (different from raw samples in github) Different from the facial mask recognition (or detection) dataset, the masked face recognition dataset must include multiple masked and unmasked face images of the same subject. To this end, we have established two kinds of masked face recognition datasets. 
 
-Download link: https://pan.baidu.com/s/1XvGepj84SCA9rlVb9rGhEQ
+(1)	Real-world masked face recognition dataset: We crawled the samples from the website. After cleaning and labeling, it contains 5,000 masked faces of 525 people and 90,000 normal faces. 
+
+Download link: https://pan.baidu.com/s/1XvGepj84SCA9rlVb9rGhEQ 
 Password: j3aq
 
 (2)	Simulated masked face recognition datasets: We put on the masks on the faces in the public face datasets, and obtained the simulated masked face dataset of 500,000 faces of 10,000 subjects.
