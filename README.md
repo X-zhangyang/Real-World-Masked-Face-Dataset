@@ -49,6 +49,7 @@ https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg
 Because of the recent epidemic of COVID-19 virus around the world, people across the country wear masks and there appear a large number of masked face samples. We thus created the world's largest masked face dataset to accumulate data resources for possible intelligent management and control of similar public safety events in the future. Based on masked face dataset, corresponding masked face detection and recognition algorithms are designed to help people in and out of the community when the community is closed. In addition, the upgrade of face recognition gates, facial attendance machines, and facial security checks at train stations is adapted to the application environment of pedestrian wearing masks.
 
 Sponsor: National Engineering Research Center for Multimedia Software (NERCMS), School of Computer Science, Wuhan University
+
 Contact: Zhangyang Xiong, Email: x_zhangyang@whu.edu.cn
 
 In order to further expand this dataset, everyone is welcome to send personally collected pictures of masks to x_zhangyang@whu.edu.cn by email, and we will process the received pictures uniformly.
