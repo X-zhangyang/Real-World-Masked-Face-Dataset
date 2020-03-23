@@ -10,7 +10,9 @@
 
 ## 数据集下载
 
-部分原始样本已上传本github站点，RWMFD_part_1可直接下载使用，RWMFD_part_2 (4个压缩文件) 和RWMFD_part_3 (3个压缩文件) 需要下载全部压缩文件后，再进行解压。
+部分原始样本已上传本github站点，RWMFD_part_1可直接下载使用，RWMFD_part_2 (4个压缩文件) 和RWMFD_part_3 (3个压缩文件) 需要下载全部压缩文件后，再进行解压。也可以从下方的地址下载：
+
+链接: https://pan.baidu.com/s/1Vly3K-0qjlB6M2lenTZ8PA 提取码: xhze 
 
 已标注数据集说明如下：（区别于github中raw samples） 不同于人脸口罩识别（或检测）数据集，口罩人脸识别样本集须得包含同一人的多张戴口罩与未戴口罩的人脸图像，为此，我们建立了两种口罩人脸识别样本集。
 
@@ -68,7 +70,9 @@ In order to further expand this dataset, everyone is welcome to send personally 
 
 Part of the original samples has been uploaded to this github website. RWFMD_part_1 can be downloaded directly. RWFMD_part_2 (4 compressed files) and RWFMD_part_3 (3 compressed files) need to download all compressed files before decompressing them.
 
-More labeled face samples are illustrated as follows: (different from raw samples in github) Different from the facial mask recognition (or detection) dataset, the masked face recognition dataset must include multiple masked and unmasked face images of the same subject. To this end, we have established two kinds of masked face recognition datasets. 
+More labeled face samples are illustrated as follows: (different from raw samples in github) Different from the facial mask recognition (or detection) dataset, the masked face recognition dataset must include multiple masked and unmasked face images of the same subject. To this end, we have established two kinds of masked face recognition datasets. You can also download these datasets from the link below.
+
+Download link: https://pan.baidu.com/s/1Vly3K-0qjlB6M2lenTZ8PA Password: xhze 
 
 (1)	Real-world masked face recognition dataset: We crawled the samples from the website. After cleaning and labeling, it contains 5,000 masked faces of 525 people and 90,000 normal faces. 
 
