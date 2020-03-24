@@ -23,7 +23,7 @@
 
 (2) 模拟口罩人脸识别数据集： 给公开数据集中的人脸戴上口罩，得到1万人、50万张人脸的模拟口罩人脸数据集。 
 
-Webface模拟口罩人脸数据集： 
+WebFace模拟口罩人脸数据集： 
 
 https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA 
 密码: 77m8 
@@ -81,7 +81,7 @@ Password: j3aq
 
 (2)	Simulated masked face recognition datasets: We put on the masks on the faces in the public face datasets, and obtained the simulated masked face dataset of 500,000 faces of 10,000 subjects.
 
-Webface simulated masked face dataset:
+WebFace simulated masked face dataset:
 https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA
 Password: 77m8
 
