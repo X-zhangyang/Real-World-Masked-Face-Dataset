@@ -10,7 +10,7 @@
 
 ## 数据集下载
 
-部分原始样本已上传本github站点，RWMFD_part_1可直接下载使用，RWMFD_part_2 (4个压缩文件) 和RWMFD_part_3 (3个压缩文件) 需要下载全部压缩文件后，再进行解压。也可以从下方的地址下载：
+部分原始样本已上传本github站点，RWMFD_part_1可直接下载使用，RMFD_part_2 (4个压缩文件) 和RMFD_part_3 (3个压缩文件) 需要下载全部压缩文件后，再进行解压。也可以从下方的地址下载：
 
 链接: https://pan.baidu.com/s/1Vly3K-0qjlB6M2lenTZ8PA 提取码: xhze 
 
@@ -68,7 +68,7 @@ In order to further expand this dataset, everyone is welcome to send personally 
 
 ## Download Datasets
 
-Part of the original samples has been uploaded to this github website. RWFMD_part_1 can be downloaded directly. RWFMD_part_2 (4 compressed files) and RWFMD_part_3 (3 compressed files) need to download all compressed files before decompressing them.You can also download these datasets from the link below.
+Part of the original samples has been uploaded to this github website. RFMD_part_1 can be downloaded directly. RFMD_part_2 (4 compressed files) and RWFMD_part_3 (3 compressed files) need to download all compressed files before decompressing them.You can also download these datasets from the link below.
 
 Download link: https://pan.baidu.com/s/1Vly3K-0qjlB6M2lenTZ8PA Password: xhze 
 
