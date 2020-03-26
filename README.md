@@ -45,6 +45,11 @@ LFW模拟口罩人脸数据集:
 
 链接: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow 提取码: acwe 
 
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wnx.gif)
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wuhao.gif)
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/hzb.gif)
+
+
 
 ## 相关工作
 
@@ -105,6 +110,10 @@ or https://drive.google.com/open?id=1soLIUkGruSKMzg5z5_OYYqUVoca4E_lI
 Based on the constructed datasets, we designed and trained a face-eye-based multi-granularity masked face recognition model. The face identification accuracy on the dataset is over 95%, and some real-time video demos are as follows:
 
 Download link: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow Password: acwe 
+
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wnx.gif)
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wuhao.gif)
+![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/hzb.gif)
 
 
 ## Related Work
