@@ -46,7 +46,6 @@ LFW模拟口罩人脸数据集:
 链接: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow 提取码: acwe 
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wnx.gif)
-![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wnx_.gif)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wuhao.gif)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/hzb.gif)
 
