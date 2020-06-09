@@ -4,9 +4,9 @@
 
 发起单位：武汉大学国家多媒体软件工程技术研究中心
 
-联系人：熊张洋，联系邮箱：x_zhangyang@whu.edu.cn
+联系人：黄宝金，联系邮箱：huangbaojin@whu.edu.cn
 
-为了进一步扩充数据集，欢迎大家将个人收集到的戴口罩图片，通过邮件的方式发送到 x_zhangyang@whu.edu.cn，我们会对收到的图片统一处理。
+为了进一步扩充数据集，欢迎大家将个人收集到的戴口罩图片，通过邮件的方式发送到 huangbaojin@whu.edu.cn，我们会对收到的图片统一处理。
 
 ## 数据集下载
 
@@ -73,7 +73,7 @@ Because of the recent epidemic of COVID-19 virus around the world, people across
 
 Sponsor: National Engineering Research Center for Multimedia Software (NERCMS), School of Computer Science, Wuhan University
 
-Contact: Zhangyang Xiong, Email: x_zhangyang@whu.edu.cn
+Contact: Baojin Huang, Email: huangbaojin@whu.edu.cn
 
 In order to further expand this dataset, everyone is welcome to send personally collected pictures of masks to x_zhangyang@whu.edu.cn by email, and we will process the received pictures uniformly.
 
