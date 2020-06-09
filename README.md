@@ -75,7 +75,7 @@ Sponsor: National Engineering Research Center for Multimedia Software (NERCMS), 
 
 Contact: Baojin Huang, Email: huangbaojin@whu.edu.cn
 
-In order to further expand this dataset, everyone is welcome to send personally collected pictures of masks to x_zhangyang@whu.edu.cn by email, and we will process the received pictures uniformly.
+In order to further expand this dataset, everyone is welcome to send personally collected pictures of masks to huangbaojin@whu.edu.cn by email, and we will process the received pictures uniformly.
 
 ## Download Datasets
 
