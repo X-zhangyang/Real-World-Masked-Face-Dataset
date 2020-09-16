@@ -29,15 +29,23 @@
 
 WebFace模拟口罩人脸数据集： 
 
-下载地址： https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA 密码: 77m8 
-
-或者 https://drive.google.com/open?id=1q0ibaoFVEmXrjlk3-Oyx2oYR8HpVy6jc
+下载地址：https://pan.baidu.com/s/1O1lk1Yqp-yao7RTZomuUfw 密码：bts7 
 
 LFW模拟口罩人脸数据集: 
 
-下载地址：https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg 密码: o126
+下载地址：https://pan.baidu.com/s/1ULHV6ShpnPUzn5eqPUYu0w 密码：q7cf
 
-或者 https://drive.google.com/open?id=1soLIUkGruSKMzg5z5_OYYqUVoca4E_lI
+AgeDB-30模拟口罩人脸数据集: 
+
+下载地址：https://pan.baidu.com/s/1Eaoc90aoh9vf-8N2c-mv7A 密码: jy5j
+
+CFP-FP模拟口罩人脸数据集: 
+
+下载地址：https://pan.baidu.com/s/14py4YFNO6YDhm6_qCaSyuA 密码：ebd8
+
+(3)真实口罩人脸验证数据集，包括426个人的4015张人脸图像，组合成3589对相同身份和3589对不同身份的人脸样本对（口罩人脸/正常人脸）。
+
+下载地址：链接：https://pan.baidu.com/s/1pI6WIvkac74Ec7LfD41LSg 密码：tbe6 
 
 ## 口罩人脸识别
 
@@ -96,14 +104,20 @@ or https://drive.google.com/open?id=1UlOk6EtiaXTHylRUx2mySgvJX9ycoeBp
 (2)	Simulated masked face recognition datasets: We put on the masks on the faces in the public face datasets, and obtained the simulated masked face dataset of 500,000 faces of 10,000 subjects.
 
 WebFace simulated masked face dataset:
-https://pan.baidu.com/s/1Qi_8D_kH2QCm761elZs5YA Password: 77m8
-
-or https://drive.google.com/open?id=1q0ibaoFVEmXrjlk3-Oyx2oYR8HpVy6jc
+https://pan.baidu.com/s/1O1lk1Yqp-yao7RTZomuUfw Password：bts7 
 
 LFW simulated masked face dataset:
-https://pan.baidu.com/s/1Ge0KcYgu6oVAbLlDHCKwRg Password: o126
+https://pan.baidu.com/s/1ULHV6ShpnPUzn5eqPUYu0w Password：q7cf
 
-or https://drive.google.com/open?id=1soLIUkGruSKMzg5z5_OYYqUVoca4E_lI
+AgeDB-30 simulated masked face dataset:
+https://pan.baidu.com/s/1Eaoc90aoh9vf-8N2c-mv7A Password: jy5j
+
+CFP-FP simulated masked face dataset:
+https://pan.baidu.com/s/14py4YFNO6YDhm6_qCaSyuA Password：ebd8
+
+(3) Real-world masked face verification dataset contains 4015 face images of 426 people. The dataset is further organized into 7178 masked and non-masked sample pairs, including 3589 pairs of the same identity and 3589 pairs of different identities.
+
+https://pan.baidu.com/s/1pI6WIvkac74Ec7LfD41LSg  Password: tbe6
 
 ## Masked Face Recognition
 
@@ -119,7 +133,7 @@ Download link: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow Password: acwe
 ## Related Work
 
 https://arxiv.org/abs/2003.09093
- 
+
 ## Examples of Raw Samples
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/RWMFD_part_1/0000/0003.jpg)
