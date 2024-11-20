@@ -102,6 +102,24 @@ Contact: Baojin Huang, Email: huangbaojin@whu.edu.cn
 
 In order to further expand this dataset, everyone is welcome to send personally collected pictures of masks to huangbaojin@whu.edu.cn by email, and we will process the received pictures uniformly.
 
+
+
+## Citation 
+If you use RMFD in your research, please consider the following BibTeX entry and give us a star🌟!
+
+```bibtex
+@article{wang2023masked,
+  title={Masked face recognition dataset and application},
+  author={Wang, Zhongyuan and Huang, Baojin and Wang, Guangcheng and Yi, Peng and Jiang, Kui},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+  volume={5},
+  number={2},
+  pages={298--304},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
 ## Download Datasets
 
 Part of the original samples has been uploaded to this github website. RFMD_part_1 can be downloaded directly. RFMD_part_2 (4 compressed files) and RFMD_part_3 (3 compressed files) need to download all compressed files before decompressing them.You can also download these datasets from the link below.
