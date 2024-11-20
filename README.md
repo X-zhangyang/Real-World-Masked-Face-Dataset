@@ -8,6 +8,25 @@
 
 为了进一步扩充数据集，欢迎大家将个人收集到的戴口罩图片，通过邮件的方式发送到 huangbaojin@whu.edu.cn，我们会对收到的图片统一处理。
 
+
+## 引用 
+如果您在研究中使用了我们的RMFD数据集，请考虑以下BibTeX条目并给一颗🌟，谢谢~
+
+```bibtex
+@article{wang2023masked,
+  title={Masked face recognition dataset and application},
+  author={Wang, Zhongyuan and Huang, Baojin and Wang, Guangcheng and Yi, Peng and Jiang, Kui},
+  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+  volume={5},
+  number={2},
+  pages={298--304},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+
+
 ## 数据集下载
 
 部分原始样本已上传本github站点，RMFD_part_1可直接下载使用，RMFD_part_2 (4个压缩文件) 和RMFD_part_3 (3个压缩文件) 需要下载全部压缩文件后，再进行解压。也可以从下方的地址下载：
