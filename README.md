@@ -48,27 +48,40 @@ WebFace模拟口罩人脸数据集：
 
 下载地址：https://pan.baidu.com/s/1O1lk1Yqp-yao7RTZomuUfw 密码：bts7 
 
+或者 https://drive.google.com/file/d/1A1wv43PMEiDofKJFcEP9pEO7Fu26fbpt/view?usp=sharing
+
 LFW模拟口罩人脸数据集: 
 
-下载地址：https://pan.baidu.com/s/1ULHV6ShpnPUzn5eqPUYu0w 密码：q7cf
+下载地址：https://pan.baidu.com/s/1ULHV6ShpnPUzn5eqPUYu0w 密码：q7cf 
+
+或者 https://drive.google.com/file/d/1ZbtDi8HJeVkIlEimi8sPHbq_q55xjPO5/view?usp=sharing
 
 AgeDB-30模拟口罩人脸数据集: 
 
-下载地址：https://pan.baidu.com/s/1Eaoc90aoh9vf-8N2c-mv7A 密码: jy5j
+下载地址：https://pan.baidu.com/s/1Eaoc90aoh9vf-8N2c-mv7A 密码: jy5j 
+
+或者 https://drive.google.com/file/d/1N4wJHVN1Szktvt-d8Fyg526ABIcnJoQO/view?usp=sharing
 
 CFP-FP模拟口罩人脸数据集: 
 
-下载地址：https://pan.baidu.com/s/14py4YFNO6YDhm6_qCaSyuA 密码：ebd8
+下载地址：https://pan.baidu.com/s/14py4YFNO6YDhm6_qCaSyuA 密码：ebd8 
+
+或者 https://drive.google.com/file/d/1R2pOxAGwEOODg_vipZZhOQwbdx6kz93q/view?usp=sharing
 
 (3)真实口罩人脸验证数据集，包括426个人的4015张人脸图像，组合成3589对相同身份和3589对不同身份的人脸样本对（口罩人脸/正常人脸）。
 
-下载地址：链接：https://pan.baidu.com/s/1pI6WIvkac74Ec7LfD41LSg 密码：tbe6 
+下载地址：链接：https://pan.baidu.com/s/1pI6WIvkac74Ec7LfD41LSg 密码：tbe6  
+
+或者 https://drive.google.com/file/d/1UmU0tkNKsv2ScjLu-zEV8hlGPXz8pvUc/view?usp=sharing (影像)
+    https://drive.google.com/file/d/1NS0pO7iPZFLHzZXd1_YAXked_Z7NAG-O/view?usp=sharing (标注数据)
 
 ## 口罩人脸识别
 
 基于建立的数据集，设计和训练了面部-眉眼多粒度口罩人脸识别模型，数据集上的识别精度达到95%，部分动态视频演示见：
 
-链接: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow 提取码: acwe 
+链接: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow 提取码: acwe  
+
+或者 https://drive.google.com/file/d/1APzwoFNOWR8Ks_vchuy-FzmwQsD1BuTT/view?usp=sharing
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wnx.gif)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wuhao.gif)
@@ -139,24 +152,37 @@ or https://drive.google.com/open?id=1UlOk6EtiaXTHylRUx2mySgvJX9ycoeBp
 WebFace simulated masked face dataset:
 https://pan.baidu.com/s/1O1lk1Yqp-yao7RTZomuUfw Password：bts7 
 
+or https://drive.google.com/file/d/1A1wv43PMEiDofKJFcEP9pEO7Fu26fbpt/view?usp=sharing
+
 LFW simulated masked face dataset:
-https://pan.baidu.com/s/1ULHV6ShpnPUzn5eqPUYu0w Password：q7cf
+https://pan.baidu.com/s/1ULHV6ShpnPUzn5eqPUYu0w Password：q7cf 
+
+or https://drive.google.com/file/d/1ZbtDi8HJeVkIlEimi8sPHbq_q55xjPO5/view?usp=sharing
 
 AgeDB-30 simulated masked face dataset:
-https://pan.baidu.com/s/1Eaoc90aoh9vf-8N2c-mv7A Password: jy5j
+https://pan.baidu.com/s/1Eaoc90aoh9vf-8N2c-mv7A Password: jy5j 
+
+or https://drive.google.com/file/d/1N4wJHVN1Szktvt-d8Fyg526ABIcnJoQO/view?usp=sharing
 
 CFP-FP simulated masked face dataset:
-https://pan.baidu.com/s/14py4YFNO6YDhm6_qCaSyuA Password：ebd8
+https://pan.baidu.com/s/14py4YFNO6YDhm6_qCaSyuA Password：ebd8 
+
+or https://drive.google.com/file/d/1R2pOxAGwEOODg_vipZZhOQwbdx6kz93q/view?usp=sharing
 
 (3) Real-world masked face verification dataset contains 4015 face images of 426 people. The dataset is further organized into 7178 masked and non-masked sample pairs, including 3589 pairs of the same identity and 3589 pairs of different identities.
 
-https://pan.baidu.com/s/1pI6WIvkac74Ec7LfD41LSg  Password: tbe6
+https://pan.baidu.com/s/1pI6WIvkac74Ec7LfD41LSg  Password: tbe6 
+
+or https://drive.google.com/file/d/1UmU0tkNKsv2ScjLu-zEV8hlGPXz8pvUc/view?usp=sharing (images)
+   https://drive.google.com/file/d/1NS0pO7iPZFLHzZXd1_YAXked_Z7NAG-O/view?usp=sharing (annotations)
 
 ## Masked Face Recognition
 
 Based on the constructed datasets, we designed and trained a face-eye-based multi-granularity masked face recognition model. The face identification accuracy on the dataset is over 95%, and some real-time video demos are as follows:
 
-Download link: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow Password: acwe 
+Download link: https://pan.baidu.com/s/1P0PiWFNT1z_TcCj8vo43ow Password: acwe  
+
+or https://drive.google.com/file/d/1APzwoFNOWR8Ks_vchuy-FzmwQsD1BuTT/view?usp=sharing
 
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wnx.gif)
 ![image](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset/blob/master/demo/wuhao.gif)
